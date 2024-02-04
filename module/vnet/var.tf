@@ -1,0 +1,6 @@
+variable "vnet" {
+  
+}
+variable "subnet" {
+  
+}
